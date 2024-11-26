@@ -1,0 +1,1 @@
+make 0=out REAL_CC=${PWD}/toolchains/llvm-Snapdragon_LLVM_for_Android_6.0/prebuilt/linux-x86/bin/clang CLANG _TRIPLE=aarch64-linux-gnu starqltesq_user_delconfig
